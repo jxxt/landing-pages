@@ -195,7 +195,7 @@ body {
 
 .signup-btn button {
     background-color: #3882F6;
-    color: #F9FAF8;
+    color: white;
     border: 3px solid white;
     padding: 8px 40px;
     font-weight: bold;
@@ -208,4 +208,13 @@ body {
     background-color: #1f2937;
     height: 100px;
     padding: 0 15%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.footer span {
+    padding: 0 6px;
 }
