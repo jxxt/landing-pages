@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Agdasima', sans-serif;
+    height: 100vh;
+    width: 100%;
+}
+
+body {
+    
+    display: flex;
+
+}
+
+.img img {
+    /* height: 99vh; */
+    width: 400px;
+    /* padding-bottom: 0; */
+}
+
+.main-page {
+    display: flex;
+    flex: 1;
+    background-color: darkblue;
+}
